@@ -1,0 +1,522 @@
+{
+  "--primary-color": {
+    "prefix": "--primary-color",
+    "scope": "css, html",
+    "body": ["--primary-color"],
+  },
+  "--accent-color": {
+    "prefix": "--accent-color",
+    "scope": "css, html",
+    "body": ["--accent-color"],
+  },
+  "--neutral-color": {
+    "prefix": "--neutral-color",
+    "scope": "css, html",
+    "body": ["--neutral-color"],
+  },
+  "--white": {
+    "prefix": "--white",
+    "scope": "css, html",
+    "body": ["--white"],
+  },
+  "--black": {
+    "prefix": "--black",
+    "scope": "css, html",
+    "body": ["--black"],
+  },
+  "--achromatic-50": {
+    "prefix": "--achromatic-50",
+    "scope": "css, html",
+    "body": ["--achromatic-50"],
+  },
+  "--achromatic-100": {
+    "prefix": "--achromatic-100",
+    "scope": "css, html",
+    "body": ["--achromatic-100"],
+  },
+  "--achromatic-200": {
+    "prefix": "--achromatic-200",
+    "scope": "css, html",
+    "body": ["--achromatic-200"],
+  },
+  "--achromatic-300": {
+    "prefix": "--achromatic-300",
+    "scope": "css, html",
+    "body": ["--achromatic-300"],
+  },
+  "--achromatic-400": {
+    "prefix": "--achromatic-400",
+    "scope": "css, html",
+    "body": ["--achromatic-400"],
+  },
+  "--achromatic-500": {
+    "prefix": "--achromatic-500",
+    "scope": "css, html",
+    "body": ["--achromatic-500"],
+  },
+  "--achromatic-600": {
+    "prefix": "--achromatic-600",
+    "scope": "css, html",
+    "body": ["--achromatic-600"],
+  },
+  "--achromatic-700": {
+    "prefix": "--achromatic-700",
+    "scope": "css, html",
+    "body": ["--achromatic-700"],
+  },
+  "--achromatic-800": {
+    "prefix": "--achromatic-800",
+    "scope": "css, html",
+    "body": ["--achromatic-800"],
+  },
+  "--achromatic-900": {
+    "prefix": "--achromatic-900",
+    "scope": "css, html",
+    "body": ["--achromatic-900"],
+  },
+  "--achromatic-950": {
+    "prefix": "--achromatic-950",
+    "scope": "css, html",
+    "body": ["--achromatic-950"],
+  },
+  "--primary-color-50": {
+    "prefix": "--primary-color-50",
+    "scope": "css, html",
+    "body": ["--primary-color-50"],
+  },
+  "--primary-color-100": {
+    "prefix": "--primary-color-100",
+    "scope": "css, html",
+    "body": ["--primary-color-100"],
+  },
+  "--primary-color-200": {
+    "prefix": "--primary-color-200",
+    "scope": "css, html",
+    "body": ["--primary-color-200"],
+  },
+  "--primary-color-300": {
+    "prefix": "--primary-color-300",
+    "scope": "css, html",
+    "body": ["--primary-color-300"],
+  },
+  "--primary-color-400": {
+    "prefix": "--primary-color-400",
+    "scope": "css, html",
+    "body": ["--primary-color-400"],
+  },
+  "--primary-color-500": {
+    "prefix": "--primary-color-500",
+    "scope": "css, html",
+    "body": ["--primary-color-500"],
+  },
+  "--primary-color-600": {
+    "prefix": "--primary-color-600",
+    "scope": "css, html",
+    "body": ["--primary-color-600"],
+  },
+  "--primary-color-700": {
+    "prefix": "--primary-color-700",
+    "scope": "css, html",
+    "body": ["--primary-color-700"],
+  },
+  "--primary-color-800": {
+    "prefix": "--primary-color-800",
+    "scope": "css, html",
+    "body": ["--primary-color-800"],
+  },
+  "--primary-color-900": {
+    "prefix": "--primary-color-900",
+    "scope": "css, html",
+    "body": ["--primary-color-900"],
+  },
+  "--primary-color-950": {
+    "prefix": "--primary-color-950",
+    "scope": "css, html",
+    "body": ["--primary-color-950"],
+  },
+  "--accent-color-50": {
+    "prefix": "--accent-color-50",
+    "scope": "css, html",
+    "body": ["--accent-color-50"],
+  },
+  "--accent-color-100": {
+    "prefix": "--accent-color-100",
+    "scope": "css, html",
+    "body": ["--accent-color-100"],
+  },
+  "--accent-color-200": {
+    "prefix": "--accent-color-200",
+    "scope": "css, html",
+    "body": ["--accent-color-200"],
+  },
+  "--accent-color-300": {
+    "prefix": "--accent-color-300",
+    "scope": "css, html",
+    "body": ["--accent-color-300"],
+  },
+  "--accent-color-400": {
+    "prefix": "--accent-color-400",
+    "scope": "css, html",
+    "body": ["--accent-color-400"],
+  },
+  "--accent-color-500": {
+    "prefix": "--accent-color-500",
+    "scope": "css, html",
+    "body": ["--accent-color-500"],
+  },
+  "--accent-color-600": {
+    "prefix": "--accent-color-600",
+    "scope": "css, html",
+    "body": ["--accent-color-600"],
+  },
+  "--accent-color-700": {
+    "prefix": "--accent-color-700",
+    "scope": "css, html",
+    "body": ["--accent-color-700"],
+  },
+  "--accent-color-800": {
+    "prefix": "--accent-color-800",
+    "scope": "css, html",
+    "body": ["--accent-color-800"],
+  },
+  "--accent-color-900": {
+    "prefix": "--accent-color-900",
+    "scope": "css, html",
+    "body": ["--accent-color-900"],
+  },
+  "--accent-color-950": {
+    "prefix": "--accent-color-950",
+    "scope": "css, html",
+    "body": ["--accent-color-950"],
+  },
+  "--neutral-color-50": {
+    "prefix": "--neutral-color-50",
+    "scope": "css, html",
+    "body": ["--neutral-color-50"],
+  },
+  "--neutral-color-100": {
+    "prefix": "--neutral-color-100",
+    "scope": "css, html",
+    "body": ["--neutral-color-100"],
+  },
+  "--neutral-color-200": {
+    "prefix": "--neutral-color-200",
+    "scope": "css, html",
+    "body": ["--neutral-color-200"],
+  },
+  "--neutral-color-300": {
+    "prefix": "--neutral-color-300",
+    "scope": "css, html",
+    "body": ["--neutral-color-300"],
+  },
+  "--neutral-color-400": {
+    "prefix": "--neutral-color-400",
+    "scope": "css, html",
+    "body": ["--neutral-color-400"],
+  },
+  "--neutral-color-500": {
+    "prefix": "--neutral-color-500",
+    "scope": "css, html",
+    "body": ["--neutral-color-500"],
+  },
+  "--neutral-color-600": {
+    "prefix": "--neutral-color-600",
+    "scope": "css, html",
+    "body": ["--neutral-color-600"],
+  },
+  "--neutral-color-700": {
+    "prefix": "--neutral-color-700",
+    "scope": "css, html",
+    "body": ["--neutral-color-700"],
+  },
+  "--neutral-color-800": {
+    "prefix": "--neutral-color-800",
+    "scope": "css, html",
+    "body": ["--neutral-color-800"],
+  },
+  "--neutral-color-900": {
+    "prefix": "--neutral-color-900",
+    "scope": "css, html",
+    "body": ["--neutral-color-900"],
+  },
+  "--neutral-color-950": {
+    "prefix": "--neutral-color-950",
+    "scope": "css, html",
+    "body": ["--neutral-color-950"],
+  },
+  "--liturgical-red-50": {
+    "prefix": "--liturgical-red-50",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-red-50"],
+  },
+  "--liturgical-red-100": {
+    "prefix": "--liturgical-red-100",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-red-100"],
+  },
+  "--liturgical-red-200": {
+    "prefix": "--liturgical-red-200",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-red-200"],
+  },
+  "--liturgical-red-300": {
+    "prefix": "--liturgical-red-300",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-red-300"],
+  },
+  "--liturgical-red-400": {
+    "prefix": "--liturgical-red-400",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-red-400"],
+  },
+  "--liturgical-red-500": {
+    "prefix": "--liturgical-red-500",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-red-500"],
+  },
+  "--liturgical-red-600": {
+    "prefix": "--liturgical-red-600",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-red-600"],
+  },
+  "--liturgical-red-700": {
+    "prefix": "--liturgical-red-700",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-red-700"],
+  },
+  "--liturgical-red-800": {
+    "prefix": "--liturgical-red-800",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-red-800"],
+  },
+  "--liturgical-red-900": {
+    "prefix": "--liturgical-red-900",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-red-900"],
+  },
+  "--liturgical-red-950": {
+    "prefix": "--liturgical-red-950",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-red-950"],
+  },
+  "--liturgical-pink-50": {
+    "prefix": "--liturgical-pink-50",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-pink-50"],
+  },
+  "--liturgical-pink-100": {
+    "prefix": "--liturgical-pink-100",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-pink-100"],
+  },
+  "--liturgical-pink-200": {
+    "prefix": "--liturgical-pink-200",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-pink-200"],
+  },
+  "--liturgical-pink-300": {
+    "prefix": "--liturgical-pink-300",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-pink-300"],
+  },
+  "--liturgical-pink-400": {
+    "prefix": "--liturgical-pink-400",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-pink-400"],
+  },
+  "--liturgical-pink-500": {
+    "prefix": "--liturgical-pink-500",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-pink-500"],
+  },
+  "--liturgical-pink-600": {
+    "prefix": "--liturgical-pink-600",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-pink-600"],
+  },
+  "--liturgical-pink-700": {
+    "prefix": "--liturgical-pink-700",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-pink-700"],
+  },
+  "--liturgical-pink-800": {
+    "prefix": "--liturgical-pink-800",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-pink-800"],
+  },
+  "--liturgical-pink-900": {
+    "prefix": "--liturgical-pink-900",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-pink-900"],
+  },
+  "--liturgical-pink-950": {
+    "prefix": "--liturgical-pink-950",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-pink-950"],
+  },
+  "--liturgical-purple-50": {
+    "prefix": "--liturgical-purple-50",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-purple-50"],
+  },
+  "--liturgical-purple-100": {
+    "prefix": "--liturgical-purple-100",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-purple-100"],
+  },
+  "--liturgical-purple-200": {
+    "prefix": "--liturgical-purple-200",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-purple-200"],
+  },
+  "--liturgical-purple-300": {
+    "prefix": "--liturgical-purple-300",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-purple-300"],
+  },
+  "--liturgical-purple-400": {
+    "prefix": "--liturgical-purple-400",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-purple-400"],
+  },
+  "--liturgical-purple-500": {
+    "prefix": "--liturgical-purple-500",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-purple-500"],
+  },
+  "--liturgical-purple-600": {
+    "prefix": "--liturgical-purple-600",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-purple-600"],
+  },
+  "--liturgical-purple-700": {
+    "prefix": "--liturgical-purple-700",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-purple-700"],
+  },
+  "--liturgical-purple-800": {
+    "prefix": "--liturgical-purple-800",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-purple-800"],
+  },
+  "--liturgical-purple-900": {
+    "prefix": "--liturgical-purple-900",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-purple-900"],
+  },
+  "--liturgical-purple-950": {
+    "prefix": "--liturgical-purple-950",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-purple-950"],
+  },
+  "--liturgical-green-50": {
+    "prefix": "--liturgical-green-50",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-green-50"],
+  },
+  "--liturgical-green-100": {
+    "prefix": "--liturgical-green-100",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-green-100"],
+  },
+  "--liturgical-green-200": {
+    "prefix": "--liturgical-green-200",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-green-200"],
+  },
+  "--liturgical-green-300": {
+    "prefix": "--liturgical-green-300",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-green-300"],
+  },
+  "--liturgical-green-400": {
+    "prefix": "--liturgical-green-400",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-green-400"],
+  },
+  "--liturgical-green-500": {
+    "prefix": "--liturgical-green-500",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-green-500"],
+  },
+  "--liturgical-green-600": {
+    "prefix": "--liturgical-green-600",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-green-600"],
+  },
+  "--liturgical-green-700": {
+    "prefix": "--liturgical-green-700",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-green-700"],
+  },
+  "--liturgical-green-800": {
+    "prefix": "--liturgical-green-800",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-green-800"],
+  },
+  "--liturgical-green-900": {
+    "prefix": "--liturgical-green-900",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-green-900"],
+  },
+  "--liturgical-green-950": {
+    "prefix": "--liturgical-green-950",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-green-950"],
+  },
+  "--liturgical-gold-50": {
+    "prefix": "--liturgical-gold-50",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-gold-50"],
+  },
+  "--liturgical-gold-100": {
+    "prefix": "--liturgical-gold-100",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-gold-100"],
+  },
+  "--liturgical-gold-200": {
+    "prefix": "--liturgical-gold-200",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-gold-200"],
+  },
+  "--liturgical-gold-300": {
+    "prefix": "--liturgical-gold-300",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-gold-300"],
+  },
+  "--liturgical-gold-400": {
+    "prefix": "--liturgical-gold-400",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-gold-400"],
+  },
+  "--liturgical-gold-500": {
+    "prefix": "--liturgical-gold-500",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-gold-500"],
+  },
+  "--liturgical-gold-600": {
+    "prefix": "--liturgical-gold-600",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-gold-600"],
+  },
+  "--liturgical-gold-700": {
+    "prefix": "--liturgical-gold-700",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-gold-700"],
+  },
+  "--liturgical-gold-800": {
+    "prefix": "--liturgical-gold-800",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-gold-800"],
+  },
+  "--liturgical-gold-900": {
+    "prefix": "--liturgical-gold-900",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-gold-900"],
+  },
+  "--liturgical-gold-950": {
+    "prefix": "--liturgical-gold-950",
+    "scope": "css, hmtl",
+    "body": ["--liturgical-gold-950"],
+  },
+}
