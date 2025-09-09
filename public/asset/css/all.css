@@ -1,3 +1,4 @@
 @import "general.css";
-@import "primitive-colors.css";
-@import "semantic-colors.css";
+@import "main-colors.css";
+@import "bs5-colors.css";
+@import "liturgical-colors.css";
