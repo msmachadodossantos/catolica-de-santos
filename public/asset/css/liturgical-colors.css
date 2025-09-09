@@ -1,0 +1,61 @@
+:root {
+    --liturgical-red-50: #fef5f6;
+    --liturgical-red-100: #fbd7d9;
+    --liturgical-red-200: #f7b0b4;
+    --liturgical-red-300: #f3888e;
+    --liturgical-red-400: #ef6169;
+    --liturgical-red-500: #eb3943;
+    --liturgical-red-600: #bc2e36;
+    --liturgical-red-700: #8d2228;
+    --liturgical-red-800: #5e171b;
+    --liturgical-red-900: #2f0b0d;
+    --liturgical-red-950: #0c0303;
+
+    --liturgical-pink-50: #fef9fd;
+    --liturgical-pink-100: #fbe5f6;
+    --liturgical-pink-200: #f7cbed;
+    --liturgical-pink-300: #f3b2e5;
+    --liturgical-pink-400: #ef98dc;
+    --liturgical-pink-500: #eb7ed3;
+    --liturgical-pink-600: #bc65a9;
+    --liturgical-pink-700: #8d4c7f;
+    --liturgical-pink-800: #5e3254;
+    --liturgical-pink-900: #2f192a;
+    --liturgical-pink-950: #0c060b;
+
+    --liturgical-purple-50: #f8f5f9;
+    --liturgical-purple-100: #e5d5e6;
+    --liturgical-purple-200: #cbaccd;
+    --liturgical-purple-300: #b182b3;
+    --liturgical-purple-400: #97599a;
+    --liturgical-purple-500: #7d2f81;
+    --liturgical-purple-600: #642667;
+    --liturgical-purple-700: #4b1c4d;
+    --liturgical-purple-800: #321334;
+    --liturgical-purple-900: #19091a;
+    --liturgical-purple-950: #060206;
+
+    --liturgical-green-50: #f5fbf8;
+    --liturgical-green-100: #d6f0e3;
+    --liturgical-green-200: #ade1c6;
+    --liturgical-green-300: #83d2aa;
+    --liturgical-green-400: #5ac38d;
+    --liturgical-green-500: #31b471;
+    --liturgical-green-600: #27905a;
+    --liturgical-green-700: #1d6c44;
+    --liturgical-green-800: #14482d;
+    --liturgical-green-900: #0a2417;
+    --liturgical-green-950: #020906;
+
+    --liturgical-gold-50: #fefcf6;
+    --liturgical-gold-100: #fbf1da;
+    --liturgical-gold-200: #f7e4b6;
+    --liturgical-gold-300: #f3d691;
+    --liturgical-gold-400: #efc96d;
+    --liturgical-gold-500: #ebbb48;
+    --liturgical-gold-600: #bc963a;
+    --liturgical-gold-700: #8d702b;
+    --liturgical-gold-800: #5e4b1d;
+    --liturgical-gold-900: #2f250e;
+    --liturgical-gold-950: #0c0904;
+}
